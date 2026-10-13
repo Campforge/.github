@@ -1,12 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Campforge/.github/main/profile/assets/logo-dark.svg">
+  <img alt="Campforge Soft" src="https://raw.githubusercontent.com/Campforge/.github/main/profile/assets/logo-light.svg" width="456">
+</picture>
 
-**Here are some ideas to get you started:**
+<br><br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Free, open-source software for everyday working people —<br>simple tools that do the job and stay yours.**
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Campforge/.github/main/profile/assets/sign-camp-here.svg" width="40" alt="">
+
+### Camp is being set up
+
+Our first projects are on the way. They will be listed here as soon as they are ready.
+
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Campforge/.github/main/profile/assets/sign-good-place.svg" width="40" alt=""><br>
+      <sub>GOOD PLACE TO STAY</sub>
+      <h4>Open source</h4>
+      Every line of code is public. Read it, change it, keep it — no lock-in.
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Campforge/.github/main/profile/assets/sign-go-this-way.svg" width="40" alt=""><br>
+      <sub>GO THIS WAY</sub>
+      <h4>Simple to use</h4>
+      Tools that start fast, stay out of your way and do one job well.
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Campforge/.github/main/profile/assets/sign-you-can-help.svg" width="40" alt=""><br>
+      <sub>YOU CAN HELP</sub>
+      <h4>Built in the open</h4>
+      Ideas, bug reports and pull requests are welcome from anyone.
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+<sub>© 2026 Campforge · <a href="https://campforge.github.io/">campforge.github.io</a></sub>
+</div>
